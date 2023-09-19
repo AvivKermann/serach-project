@@ -1,0 +1,144 @@
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+  margin: auto;
+  margin-top: 140px;
+  display: block;
+  width: 25%;
+  height: 200px;
+}
+
+.navbar {
+  list-style: none;
+  position: absolute;
+  top: 0;
+  right:0;
+  font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.link {
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 10px;
+  color: black;
+  text-align: right;
+  margin: right 3px;
+  font-size: 14px;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  text-align: center;
+
+}
+
+.search {
+  font-size: 20px;
+  width: 470px;
+  height: 35px;
+  align-self: center;
+  border-radius: 8px;
+  border-color: grey;
+}
+
+.button {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 10px 20px;
+  border-radius: 12px;
+  border-color: transparent;
+  background-color: #E0E0E0	;
+}
+.advanced-button {
+  font-family: Arial, Helvetica, sans-serif;
+
+  font-size: 14px;
+  margin-top: 10px;
+  margin-left: 220px;
+  margin-right: 220px;
+  padding: 10px 20px;
+  border-radius: 12px;
+  background-color: #4d90fe;
+  color: white;
+  border-color: transparent;
+}
+
+.button-container {
+  margin-top: 10px;
+}
+
+.small-logo {
+  text-align: left;
+  margin-left: 25px;
+  width: 150px;
+}
+
+.advanced-header {
+  margin-top: 15px;
+  margin-left: 418px;
+  color: #de5246;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  text-align: left;
+}
+.table-header {
+  color: black;
+  margin-top: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  margin-left: 418px;
+  margin-bottom: 50px;
+}
+
+
+
+.table-container {
+  position: absolute;
+  margin-left: 400px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.advanced-search {
+    font-size: 20px;
+    width: 350px;
+    height: 25px;
+    align-self: center;
+    border-radius: 8px;
+    border-color: grey;
+    margin-left: 20px;
+}
+
+.table-format {
+  margin-bottom: 30px;
+}
+
+table{
+  border-spacing: 20px;
+}
+
+td {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
